@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "SearchInput":"../../components/searchinput/SearchInput",
+    "Tabs":"../../components/tabs/Tabs"
+
+  },
+  "navigationBarTitleText": "优购首页" ,
+  "backgroundTextStyle": "dark",
+  "enablePullDownRefresh":true
+  
+}
